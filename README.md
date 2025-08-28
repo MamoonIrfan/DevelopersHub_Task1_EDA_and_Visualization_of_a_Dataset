@@ -32,4 +32,4 @@ According to the internship guidelines, the task involved:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/DevelopersHub_Task1_Titanic-EDA.git
+   git clone https://github.com/MamoonIrfan/DevelopersHub_Task1_EDA_and_Visualization_of_a_Dataset.git
